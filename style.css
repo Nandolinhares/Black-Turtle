@@ -1,0 +1,35 @@
+
+
+/* Menu Principal */
+nav{
+	background: #141418;
+	border: none;
+}
+nav ul a{
+	font-size: 18px;
+	margin-top: -2px;
+}
+nav ul li a:hover{
+	border-bottom: 3px solid #3CB371;
+}
+.menu_principal{
+	margin-right: 10%;
+}
+
+.brand-logo{
+	margin-left: 3%;
+	margin-top: -2px;
+}
+
+
+/* Menu Responsivo */
+
+@media screen and (max-width: 699px) and (min-width: 220px) {
+    
+}
+@media screen and (max-width: 1000px) and (min-width: 700px){
+	
+}
+@media screen and (min-width: 1001px){
+	
+}
